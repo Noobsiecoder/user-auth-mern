@@ -1,8 +1,0 @@
-# tailwind
-*.config.js
-
-# misc
-node_modules
-build
-.vscode
-.env
